@@ -1,0 +1,22 @@
+@import '~materialize-css/dist/css/materialize.min.css';
+
+.card-action > .btn {
+  margin-right: 15px;
+}
+.input-field > label {
+  color: rgb(53, 53, 53);
+}
+
+.row > .s8 > .offset-s2 {
+  padding-top: 2rem;
+}
+
+.preloader-wrapper {
+  display: flex;
+  justify-content: center;
+  padding-top: 2rem;
+}
+
+span.brand-logo {
+  margin-left: 15px;
+}
