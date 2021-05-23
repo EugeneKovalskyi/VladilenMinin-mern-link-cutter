@@ -1,2 +1,2 @@
 Lesson: https://www.youtube.com/watch?v=ivDjWYcKDZI
-        https://github.com/vladilenm
+Lesson developer: https://github.com/vladilenm
